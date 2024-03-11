@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahanaimp
 - 👀 I’m interested in Image Classification and Generative AI applications
-- 🌱 I’m currently learning building Generative AI applications using popular LLMs. I am currently using Vertex AI.
+- 🌱 I’m currently learning building Generative AI applications using popular LLMs. 
 - 💞️ I’m looking to collaborate on building Generative AI applications
 - 📫 
 <!---
