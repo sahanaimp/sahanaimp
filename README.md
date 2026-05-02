@@ -2,12 +2,12 @@
 sahanaimp/sahanaimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Sahana Raghuraman</h1>
+<h1 align="center">Sahana Raghuraman</h1>
 <h3 align="center"></h3>
     <ul style="text-align: center; list-style-position: inside;">
-        <li>I am an AI/ML Developer passionate about solving challenging problems using the possibilities of machine learning.</li>
-        <li>I am a computational sciences major.</li>
-        <li>I won two scholarships from AWS to complete Udacity nano degree programs in AI/ML.</li>
+        <li>Building AI products with real users and real constraints.
+        <li>Applied Math + CS @ Texas A&M.
+        <li>Shipped across LLMs, data systems, and cloud infrastructure.
     </ul>
 
  <h3 align="left">Languages and Tools:</h3>
