@@ -10,7 +10,7 @@ Turning LLMs and data systems into production-ready products.
 
 ### What I’m Building
 - LLM-powered workflows for real-world decision making (e.g. sales, analytics)
-- Data systems that turn messy inputs into usable insights
+- Data systems for querying, transforming, and operationalizing data
 - End-to-end products from idea → prototype → shipped system
 
 ---
