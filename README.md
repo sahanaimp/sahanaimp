@@ -36,7 +36,7 @@ LLMs (OpenAI API), SQL, APIs, Prompt Engineering
 
 ---
 
-### 🔍 Selected Work
+### Selected Work
 - **PipelineGuard** — LLM system to evaluate early-stage sales calls and improve pipeline quality  
 - **FocusFrame** — iOS productivity app for structured deep work sessions
 - **PalatePals** — AI-powered restaurant discovery using AWS Bedrock  
